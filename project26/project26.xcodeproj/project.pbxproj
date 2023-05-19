@@ -15,6 +15,7 @@
 		12E375F22A1641AF00634A72 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 12E375F12A1641AF00634A72 /* Assets.xcassets */; };
 		12E375F52A1641AF00634A72 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 12E375F32A1641AF00634A72 /* LaunchScreen.storyboard */; };
 		12E375FC2A16429700634A72 /* level1.txt in Resources */ = {isa = PBXBuildFile; fileRef = 12E375FB2A16429700634A72 /* level1.txt */; };
+		12E375FE2A172B4300634A72 /* level2.txt in Resources */ = {isa = PBXBuildFile; fileRef = 12E375FD2A172B4300634A72 /* level2.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		12E375F12A1641AF00634A72 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		12E375F42A1641AF00634A72 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		12E375FB2A16429700634A72 /* level1.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = level1.txt; sourceTree = "<group>"; };
+		12E375FD2A172B4300634A72 /* level2.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = level2.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 				12E375F12A1641AF00634A72 /* Assets.xcassets */,
 				12E375F32A1641AF00634A72 /* LaunchScreen.storyboard */,
 				12E375FB2A16429700634A72 /* level1.txt */,
+				12E375FD2A172B4300634A72 /* level2.txt */,
 			);
 			path = project26;
 			sourceTree = "<group>";
@@ -131,6 +134,7 @@
 			files = (
 				12E375FC2A16429700634A72 /* level1.txt in Resources */,
 				12E375F02A1641AD00634A72 /* Main.storyboard in Resources */,
+				12E375FE2A172B4300634A72 /* level2.txt in Resources */,
 				12E375E72A1641AD00634A72 /* GameScene.sks in Resources */,
 				12E375F22A1641AF00634A72 /* Assets.xcassets in Resources */,
 				12E375F52A1641AF00634A72 /* LaunchScreen.storyboard in Resources */,
